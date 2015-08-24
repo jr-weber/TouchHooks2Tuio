@@ -1,0 +1,17 @@
+<TouchHooks2Tuio>
+
+    <Hooks>
+        <useGlobalHook> true </useGlobalHook>
+    </Hooks>
+
+    <Network>
+        <localHost> 127.0.0.1 </localHost>
+        <tuioUdpChannelOnePort> 3333 </tuioUdpChannelOnePort>
+        <tuioUdpChannelTwoPort> 3334 </tuioUdpChannelTwoPort>
+        <flashXmlChannelPort> 3000 </flashXmlChannelPort>
+        <useTuioUdpChannelOne> true </useTuioUdpChannelOne>
+        <useTuioUdpChannelTwo> true </useTuioUdpChannelTwo>
+        <useFlashXmlChannel> true </useFlashXmlChannel>
+    </Network>
+
+</TouchHooks2Tuio>
