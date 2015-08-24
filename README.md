@@ -2,6 +2,8 @@
 The TouchHooks2Tuio program monitors Windows 8 touch events and resends them as 
 /tuio/2Dcur messages for use by a TUIO-aware multitouch application.
 
+![TouchHooks2Tuio GUI Image](https://github.com/jr-weber/TouchHooks2Tuio/blob/master/TouchHooks2Tuio-GUI.png)
+
 Run Requirements:
 
 * Windows 8 operating system.
